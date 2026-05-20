@@ -16,8 +16,6 @@ I am an Information System graduate with a strong passion for building both robu
 
 ---
 
-### 🛠️ My Tech Stack 
-
 ### 🛠️ My Tech Stack
 
 **Frontend & Mobile App**
