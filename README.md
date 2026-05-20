@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Kritthanat Ngoen-in (KN)
+# 👋 Hello there! I'm Kritthanat Ngoen-in (KN) 🌟
 
 ### 👨🏻‍💻 Web & Mobile Developer | Building Digital Experiences
 
@@ -6,7 +6,7 @@ I am an Information System graduate with a strong passion for building both robu
 
 ---
 
-### 🌟 About Me
+### About Me 🌟
 
 - 🎓 **Background:** Information System Graduate
 - 💻 **Focus:** Full-Stack Web Development & Cross-Platform Mobile Apps
@@ -16,7 +16,7 @@ I am an Information System graduate with a strong passion for building both robu
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack 🌟
 
 **Frontend & Mobile App**
 <br>
@@ -47,26 +47,24 @@ I am an Information System graduate with a strong passion for building both robu
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects 🌟
 
 | Project Name | Description | Key Technologies |
 | :--- | :--- | :--- |
-| 📱 **PinkPick** | A cross-platform mobile application with beautiful animations, seamless navigation, and integrated Omise payment gateway. | `React Native`, `Expo`, `NativeWind`, `Supabase`, `Edge Functions` |
-| 🏢 **TT Apartment** | A modern web application for apartment management, featuring PDF generation and LINE LIFF integration for tenants. | `Next.js 16`, `React 19`, `Prisma`, `Tailwind v4`, `LIFF` |
-| 🌿 **Wolffia Hub** | IoT Farm Tracking system integrating Google Maps API and Nexxiot hardware data over GraphQL. | `HTML/JS/CSS`, `Express`, `Firebase Cloud Functions`, `GraphQL` |
+| **PinkPick** | A cross-platform mobile application with beautiful animations, seamless navigation, and integrated Omise payment gateway. | `React Native`, `Expo`, `NativeWind`, `Supabase`, `Edge Functions` |
+| **TT Apartment** | A modern web application for apartment management, featuring PDF generation and LINE LIFF integration for tenants. | `Next.js 16`, `React 19`, `Prisma`, `Tailwind v4`, `LIFF` |
+| **Wolffia Hub** | IoT Farm Tracking system integrating Google Maps API and Nexxiot hardware data over GraphQL. | `HTML/JS/CSS`, `Express`, `Firebase Cloud Functions`, `GraphQL` |
 
 ---
 
-### 📈 GitHub Activity Graph
+### 📈 GitHub Activity Graph 🌟
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krittysleep&theme=react-dark&show_icons=true&hide_border=true&area=true" alt="Commit Graph" />
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krittysleep&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
 ---
 
-### 🤝 Let's Connect
+### Let's Connect 🌟
 
 <p align="left">
   <a href="https://github.com/krittysleep" target="_blank">
