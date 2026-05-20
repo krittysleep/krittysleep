@@ -14,6 +14,12 @@ I am an Information System graduate with a strong passion for building both robu
 - 🎯 **Goal:** To build impactful, scalable, and user-centric software solutions.
 - 📫 **How to reach me:** [kritthanat.ng@gmail.com](mailto:kritthanat.ng@gmail.com)
 
+
+### 🏆 Achievements & Awards
+
+- 🏅 **4th Place Winner** - [Microsoft Office Specialist World Championship (MOSWC)]
+- 📜 Official Result: https://certiport.pearsonvue.com/Blog/2024/July/2024-MOS-World-Champions.aspx
+
 ---
 
 ### 🛠️ My Tech Stack
