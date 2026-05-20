@@ -57,11 +57,9 @@ I am an Information System graduate with a strong passion for building both robu
 
 ---
 
-### 📊 GitHub Stats
-
+### 📈 GitHub Activity Graph
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krittysleep&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krittysleep&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krittysleep&theme=react-dark&show_icons=true&hide_border=true&area=true" alt="Commit Graph" />
 </div>
 
 ---
