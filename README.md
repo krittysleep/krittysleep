@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Kritthanat Ngoen-in (KN) 
+# 👋 Hello there! I'm Kritthanat Ngoen-in (Ohm , Baoma)
 
 ### 👨🏻‍💻 Web & Mobile Developer | Building Digital Experiences
 
